@@ -55,3 +55,8 @@ class_name = "RelayRoom"
 tag = "v1"
 new_sqlite_classes = ["RelayRoom"]
 
+[[routes]]
+pattern = "vnts.sitepeng.dpdns.org"
+custom_domain = true
+
+
